@@ -11,5 +11,5 @@ Rails.application.routes.draw do
       }, via: [:get, :post]
     end
   end
-  
+
 end
